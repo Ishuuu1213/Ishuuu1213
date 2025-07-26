@@ -17,6 +17,13 @@
 
 ---
 
+### 🎉Community Contribution Accepted by Vercel Team!
+- My response to a GitHub Discussion in the Next.js repository was marked as the Accepted Answer by the community!
+- 🏅 Marked Answer in: “Hey! New to Open Source – where can I start with Next.js?”
+- 💬 I actively help others in GitHub Discussions and contribute to the open-source ecosystem by sharing my learnings.
+
+---
+
 ### 🌱 I’m currently learning:
 - 📚 Deep concepts of **Web Accessibility (WCAG, ARIA)**.
 - ⚙️ JavaScript frameworks and state management (React + Redux).
